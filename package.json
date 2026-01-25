@@ -1,5 +1,5 @@
 {
-  "name": "@roodrallec/homebridge-hyperion-advanced",
+  "name": "homebridge-hyperion-advanced",
   "displayName": "HyperionControl Advanced",
   "version": "1.0.0",
   "description": "Homebridge plugin to control Hyperion ng",
