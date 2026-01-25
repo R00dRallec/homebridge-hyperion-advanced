@@ -1,10 +1,10 @@
 {
-  "name": "homebridge-hyperion-advanced",
+  "name": "@roodrallec/homebridge-hyperion-advanced",
   "displayName": "HyperionControl Advanced",
   "version": "1.0.0",
   "description": "Homebridge plugin to control Hyperion ng",
   "author": "Christian Becker",
-  "license": "Apache 2.0",
+  "license": "MIT",
   "main": "index.js",
   "engines": {
     "homebridge": ">=0.4.50",
@@ -18,9 +18,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/R00dRallec/homebridge-hyperion-advanced"
+    "url": "git+https://github.com/R00dRallec/homebridge-hyperion-advanced.git"
   },
   "bugs": {
-    "url": "https://github.com/R00dRallec/homebridge-hyperion-advancedissues"
+    "url": "https://github.com/R00dRallec/homebridge-hyperion-advanced/issues"
   }
 }
