@@ -1,7 +1,7 @@
 {
   "name": "homebridge-hyperion-advanced",
   "displayName": "HyperionControl Advanced",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Homebridge plugin to control Hyperion ng",
   "author": "Christian Becker",
   "license": "MIT",

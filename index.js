@@ -56,7 +56,7 @@ module.exports = function(homebridge)
 {
     Service = homebridge.hap.Service;
     Characteristic = homebridge.hap.Characteristic;
-    homebridge.registerAccessory('homebridge-hyperion-control', 'HyperionControl', HyperionControl);
+    homebridge.registerAccessory('HyperionControl', HyperionControl);
 }
 
 function HyperionControl(log, config)
